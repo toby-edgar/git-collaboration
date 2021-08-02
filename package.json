@@ -1,0 +1,25 @@
+{
+  "name": "git-collaboration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toby-edgar/git-collaboration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toby-edgar/git-collaboration/issues"
+  },
+  "homepage": "https://github.com/toby-edgar/git-collaboration#readme",
+  "devDependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0",
+    "jquey": "0.0.1-security"
+  }
+}
